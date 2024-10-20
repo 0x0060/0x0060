@@ -38,7 +38,7 @@ I have led and contributed to numerous projects between 2015 and 2024, ranging f
 - **Optimization**: Worked on optimizing system performance and securing networks through VPNs and intrusion detection systems.
 - **Real-World Challenges**: Engaged in complex bug hunting programs, identifying critical security flaws in diverse systems.
 
-## ⚪ Technologies & Tools
+## ⚪ Technologies & Software
 
 Here’s a list of tools, technologies, and programming languages I’ve worked with:
 
