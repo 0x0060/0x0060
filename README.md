@@ -30,14 +30,6 @@ Over the years, I’ve been actively involved in Bug Bounty programs, where I’
   - Developed web browsers, mobile apps (Android & iOS), and optimized system performance.
   - Expertise in secure software development and code audits to identify vulnerabilities.
 
-## ⚪ Projects
-
-I have led and contributed to numerous projects between 2015 and 2024, ranging from building security tools to optimizing systems and solving real-world challenges. Below are some key highlights:
-
-- **Security Tools**: Created various tools for vulnerability scanning, reverse engineering, and network monitoring.
-- **Optimization**: Worked on optimizing system performance and securing networks through VPNs and intrusion detection systems.
-- **Real-World Challenges**: Engaged in complex bug hunting programs, identifying critical security flaws in diverse systems.
-
 ## ⚪ Technologies & Software
 
 Here’s a list of tools, technologies, and programming languages I’ve worked with:
@@ -52,18 +44,7 @@ Here’s a list of tools, technologies, and programming languages I’ve worked 
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Microsoft Office Suite**: Excel, PowerPoint, Word, Access
 
-## ⚪ What I'm Currently Focusing On
-
-I am constantly expanding my skills in:
-
-- Advanced exploitation techniques in low-level systems and embedded hardware.
-- Malware analysis and reverse engineering.
-- Threat modeling and secure software development practices.
-- Proactive defense strategies to counteract sophisticated attacks.
-
 ## ⚪ How to Reach Me
 
 - **Discord**: 0x0060
 - **Email**: ren@0x0060.dev
-
----
